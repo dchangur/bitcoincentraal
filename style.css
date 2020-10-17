@@ -35,10 +35,10 @@ a.create-new-account{
 }
 
 .section-header {
-    background-image: url(images/shutterstock_398047129.jpg);
+    background-image: url(images/pexels-photo-1447418.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 450px;
+    height: 100vh;
     position: relative;
 }
 
@@ -73,4 +73,9 @@ a.create-new-account{
 
   .fa {
       margin: 10px;
+  }
+
+  h1.header-title {
+      font-size: 5rem !important;
+   
   }
